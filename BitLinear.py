@@ -6,7 +6,6 @@ This file implements BitLinear based on
 the original paper: https://arxiv.org/pdf/2310.11453
 """
 
-import numpy as np
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
